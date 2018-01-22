@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"me.mayet.yussuf.next45.challenge"}]
